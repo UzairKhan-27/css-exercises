@@ -1,0 +1,21 @@
+.line-1-3
+{
+    background-color: lightcoral;
+    font-family: Verdana, "DejaVuSans", sans-serif;
+
+}
+.line-5
+{
+    font-size: 24px;
+}
+#line-2
+{
+    color: blue;
+    font-size: 36px;
+}
+#line-4
+{
+    background-color: lightgreen;
+    font-weight: bold;
+    font-size: 24px;
+}
