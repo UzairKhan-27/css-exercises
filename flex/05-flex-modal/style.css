@@ -30,7 +30,14 @@ body {
   align-items:flex-start;
   gap : 8px;
 }
-
+.header-text-buttons
+{
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  justify-content: center;
+  align-items:first baseline ;
+}
 .icon {
   color: royalblue;
   font-size: 26px;
@@ -42,6 +49,12 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
+}
+.text 
+{
+  margin-left: 50px;
+  margin-bottom: 20px;
+
 }
 .header
 {
